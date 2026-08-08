@@ -1,5 +1,7 @@
-last_seo_boost=2026-08-08T06:49:00Z
+last_seo_boost=2026-08-08T06:56:43Z
 slug=ama-akuoko-spad
-platforms=github+pages+huggingface
+platforms=huggingface+github+pages
+prefer=huggingface
+hf=https://huggingface.co/0001AMA/ama-akuoko-spad
 public=true
 purpose=machine-intelligence-technical-profile
