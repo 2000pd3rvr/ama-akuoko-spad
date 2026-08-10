@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-10T06:55:24Z
+last_seo_boost=2026-08-10T07:08:50Z
 slug=ama-akuoko-spad
 platforms=huggingface+github+pages
 prefer=huggingface
